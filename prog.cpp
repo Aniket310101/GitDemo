@@ -13,6 +13,7 @@ int main(){
         cnt+=i;
         c*=i;
     }
-    cout<<cnt<<endl<<c;
+    cout<<"The total Sum: "<<cnt<<endl;
+    cout<<"The total Product: "<<c;
 
 }
